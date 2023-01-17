@@ -8,7 +8,7 @@ g++ ex1_RRR.cpp -o ex1_RRR.out
 
 ## 출력 실행
 ```
-./ex1_RRR.out {argument 수}
+./ex1_RRR.out { argument 수}
 ```
 
 # Eigen Library
