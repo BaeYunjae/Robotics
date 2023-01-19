@@ -10,4 +10,4 @@ roslaunch pick_n_place demo.launch
 rosrun pick_n_place my_puma
 ```
 
-<img src = "![moveit](https://user-images.githubusercontent.com/88019800/213464488-3b898e2b-06c1-4ec9-90ca-7245990a55e0.gif)">
+<img src="![moveit](https://user-images.githubusercontent.com/88019800/213464488-3b898e2b-06c1-4ec9-90ca-7245990a55e0.gif)">
