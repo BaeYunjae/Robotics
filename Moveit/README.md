@@ -9,6 +9,4 @@ roslaunch pick_n_place demo.launch
 ```
 rosrun pick_n_place my_puma
 ```
-<center>
-![moveit](https://user-images.githubusercontent.com/88019800/213465237-043ff404-2350-419e-ae13-b1429b94deb6.gif)
-</center>
+<center><img src="https://user-images.githubusercontent.com/88019800/213465237-043ff404-2350-419e-ae13-b1429b94deb6.gif"></center>
