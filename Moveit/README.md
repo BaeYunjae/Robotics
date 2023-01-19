@@ -11,5 +11,5 @@ rosrun pick_n_place my_puma
 ```
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88019800/213464488-3b898e2b-06c1-4ec9-90ca-7245990a55e0.gif/">
+<img src="![moveit](https://user-images.githubusercontent.com/88019800/213465237-043ff404-2350-419e-ae13-b1429b94deb6.gif)">
 </p>
