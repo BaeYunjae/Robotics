@@ -11,6 +11,7 @@ rosrun pick_n_place my_puma
 ```
 
 
-![moveit](https://user-images.githubusercontent.com/88019800/213465237-043ff404-2350-419e-ae13-b1429b94deb6.gif){: .center}
+![moveit](https://user-images.githubusercontent.com/88019800/213465237-043ff404-2350-419e-ae13-b1429b94deb6.gif)
+{: .center}
 
 
