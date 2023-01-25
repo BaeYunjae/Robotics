@@ -9,3 +9,11 @@
 catkin_make -DCATKIN_WHITELIST_PACKAGES=""
 ```
 #### *catkin_make* 실행
+
+
+# Trajectory Planning in
+## Joint space 
+waypoints 사이에서 변화
+
+## Task space
+waypoints 사이에 직선
